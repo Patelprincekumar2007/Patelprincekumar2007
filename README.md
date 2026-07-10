@@ -126,9 +126,7 @@ Fingerprint attendance synced with Google Sheets.
 
 # 💯 LeetCode
 
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/patelprince_2007/?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/patelprince_2007?theme=dark&font=baloo)
 
 ---
 
