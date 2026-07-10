@@ -10,29 +10,31 @@ Aspiring Data Scientist | Computer Science Student
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 📍 Surendranagar, Gujarat, India
-- 💻 Interested in Data Science and AI
-- 🌱 Learning Python, Machine Learning and MERN
-- 🎯 Goal: Data Scientist
+🎓 B.Tech Computer Science Student
 
-![Stats](https://github-readme-stats.vercel.app/api?username=24cs73-prince&show_icons=true&theme=tokyonight)
+📍 Gujarat, India
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24cs73-prince&layout=compact&theme=tokyonight)
+💡 Passionate about Data Science, Machine Learning and Software Development.
 
-![Streak](https://streak-stats.demolab.com?user=24cs73-prince&theme=tokyonight)
+🌱 Currently learning Python, SQL, Machine Learning, Deep Learning and Flask.
+
+🚀 Building real-world projects for placement.
+
+🎯 Seeking Data Science Internship opportunities.
+
+
+
 ---
 
 ## 💻 Skills
 
-### Languages
+### Programming
 
 - Python
 - C
 - C++
+- SQL
 - JavaScript
-- HTML
-- CSS
 
 ### Data Science
 
@@ -41,21 +43,29 @@ Aspiring Data Scientist | Computer Science Student
 - Matplotlib
 - Scikit-learn
 
+### Web
+
+- HTML
+- CSS
+- Flask
+
 ### Tools
 
 - Git
 - GitHub
 - VS Code
 - MySQL
+- Jupyter Notebook
 
-- 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-- Student Placement Prediction
-- Telecom Churn Analysis
-- SATVA LASER Website
-- Ev bike Dashboard
+📊 Student Placement Prediction
 
+📈 Telecom Customer Churn Analysis
+
+🏭 SATVA LASER Industrial Website
+
+⚡ EV Dashboard Analytics
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
