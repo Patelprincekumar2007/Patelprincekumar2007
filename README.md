@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Prince+Patel;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Prince Patel</h1>
 
 <h3 align="center">
