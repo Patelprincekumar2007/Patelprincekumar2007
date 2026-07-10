@@ -17,8 +17,8 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Patelprincekumar2007
-        outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=%2300BFFF&color_dots=%23161B22,%230A2540,%231B4F72,%232E86C1,%234FC3F7
+  outputs: |
+  dist/github-contribution-grid-snake-dark.svg?color_snake=%2358A6FF&color_dots=%23161B22,%230D1117,%231F6FEB,%233A7BD5,%2358A6FF
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
