@@ -61,28 +61,21 @@ Learn → Build → Improve
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql"/>
-</p>
+Python • C • C++ • SQL • JavaScript
 
-## Libraries
+### Data Science
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Streamlit
-- Flask
+Pandas • NumPy • Matplotlib • Scikit-learn • Streamlit
 
-## Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+MySQL
 
----
+### Tools
+
+Git • GitHub • VS Code • Linux
 
 # 🎯 2026 Mission
 
@@ -97,31 +90,36 @@ Learn → Build → Improve
 
 # 🚀 Featured Projects
 
-## 📊 Student Placement Prediction
-Machine learning model to predict placement outcomes.
-
-## 📈 Telecom Customer Churn Analysis
-EDA and predictive analytics.
-
-## ⚡ EV Analytics Dashboard
-Interactive dashboard for electric vehicle insights.
-
-## 🏭 SATVA LASER Website
-Business website for laser cutting services.
-
-## 🔐 ESP32 Attendance System
-Fingerprint attendance synced with Google Sheets.
+| Project | Tech | Status |
+|----------|------|--------|
+| 🎓 Student Placement Prediction | Python, Streamlit | 🟢 Active |
+| 📊 Telecom Churn Analysis | Pandas, ML | 🟢 Active |
+| 🏭 SATVA LASER Website | Next.js | 🟡 Improving |
+| ⚡ EV Dashboard | Python | 🔵 Planning |
+| 🔐 ESP32 Attendance System | ESP32 | ✅ Completed |
 
 ---
 
-# 📈 GitHub Analytics
+# 📌 Current Status
 
+```yaml
+Education:
+  Degree: B.Tech Computer Science Engineering
 
+Focus:
+  - Data Science
+  - Machine Learning
+  - Artificial Intelligence
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patelprincekumar2007&show_icons=true&theme=tokyonight)
+Learning:
+  - Python
+  - SQL
+  - Flask
+  - Streamlit
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patelprincekumar2007&layout=compact&theme=tokyonight)
-
+Target:
+  Data Scientist
+```
 ---
 
 # 💯 LeetCode
@@ -136,39 +134,33 @@ Fingerprint attendance synced with Google Sheets.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Patelprincekumar2007&theme=tokyonight&column=4)
 
 ---
 
 # 🐍 Contribution Snake
 
-After setting up the GitHub Action:
-
-```md
 ![Snake](https://raw.githubusercontent.com/Patelprincekumar2007/Patelprincekumar2007/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
-# 📚 Currently Learning
+# 📖 Learning Roadmap
 
-- Machine Learning
-- Deep Learning
-- Statistics
-- Feature Engineering
-- Model Deployment
-- MERN Stack
-
+- ✅ Python
+- ✅ SQL
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- ⏳ NLP
+- ⏳ Computer Vision
+- ⏳ LLM Applications
 ---
-
 # 🌐 Coding Profiles
 
-- LeetCode
-- Kaggle
-- HackerRank
-- GitHub
+| Platform | Profile |
+|----------|---------|
+| 💯 LeetCode | https://leetcode.com/u/patelprince_2007/ |
+| 🐙 GitHub | https://github.com/Patelprincekumar2007 |
+| 💼 LinkedIn | https://linkedin.com/in/patel-princekumar-j-323b9a324 |
+| 🧠 Kaggle | Coming Soon |
 
 ---
 
@@ -180,9 +172,19 @@ After setting up the GitHub Action:
 
 ---
 
+# 💼 Open To
+
+✔ Data Science Internship
+
+✔ Machine Learning Internship
+
+✔ Software Development Internship
+
+✔ Open Source Collaboration
+
 # ✨ Quote
 
-> "Every commit is one step closer to mastery."
+> Building solutions with data, one project at a time.
 
 ---
 
