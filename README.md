@@ -1,16 +1,12 @@
 <div align="center">
 
 # Hi, I'm Prince Patel 👋
-### Data → Insight → Impact
+### Code • Learn • Solve
 
 **Computer Science Engineering Student | Machine Learning & Data Analytics Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Real-World+ML+Projects;Learning+Deep+Learning+%26+NLP;Open+to+Data+Science+Internships)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Patelprincekumar2007&style=for-the-badge&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patel-princekumar-j-323b9a324)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/patelprince_2007/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jnpatel3366@gmail.com)
 
 </div>
 
@@ -18,12 +14,15 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science Engineering student from Gujarat, India, passionate about solving real-world problems with **Data Science** and **Machine Learning**. I'm currently building projects in predictive analytics, data visualization, and full-stack development, while preparing for software and data science placements.
+I'm a Computer Science Engineering student from Gujarat, India, interested in Data Science, Machine Learning, and Software Development. I enjoy building practical projects, exploring datasets, and continuously improving my problem-solving skills.
 
 ```bash
 > whoami
-Prince Patel — Aspiring Data Scientist
+Prince Patel
 
+Computer Science Engineering Student
+
+Interested in Data Science & Machine Learning
 > currently_building
 • Student Placement Prediction (Python, Streamlit)
 • Telecom Churn Analysis (Pandas, ML)
@@ -67,13 +66,13 @@ Learn → Build → Improve
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Status |
+| Project | Tech Stack | Description |
 |---|---|---|
-| 🎓 **Student Placement Prediction** | Python, Streamlit, ML | 🟢 Active |
-| 📊 **Telecom Churn Analysis** | Pandas, Scikit-learn | 🟢 Active |
-| 🏭 **SATVA LASER Website** | Next.js | 🟡 Improving |
-| ⚡ **EV Dashboard** | Python, Data Viz | 🔵 Planning |
-| 🔐 **ESP32 Attendance System** | ESP32, IoT | ✅ Completed |
+| 🎓 **Student Placement Prediction** | Python, Streamlit, ML |  Predicts placement probability using ML |
+| 📊 **Telecom Churn Analysis** | Pandas, Scikit-learn |  Exploratory analysis and churn prediction |
+| 🏭 **SATVA LASER Website** | Next.js |  Website for an industrial laser cutting business |
+| ⚡ **EV Dashboard** | Python, Data Viz |  Dashboard for EV analytics |
+| 🔐 **ESP32 Attendance System** | ESP32, IoT |  Fingerprint-based attendance with IoT |
 
 ---
 
@@ -132,6 +131,7 @@ Learn → Build → Improve
 
 ### ✨ *"Building solutions with data, one project at a time."*
 
-⭐ **Thanks for visiting my profile — if you find my projects useful, consider starring the repositories!**
+Thanks for stopping by.
 
+I'm always interested in learning, collaborating, and building meaningful projects.
 </div>
