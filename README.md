@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Patel</h1>
 
-<!--
-**Patelprincekumar2007/Patelprincekumar2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Scientist | Computer Science Student
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Student
+- 📍 Surendranagar, Gujarat, India
+- 💻 Interested in Data Science and AI
+- 🌱 Learning Python, Machine Learning and MERN
+- 🎯 Goal: Data Scientist
+
+---
+
+## 🚀 Current Projects
+
+- Student Placement Prediction
+- Telecom Churn Analysis
+- SATVA LASER Website
+- Ev bike Dashboard
+
+---
+
+## 📫 Contact
+
+Email: jnpatel3366@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/patel-princekumar-j-323b9a324?utm_source=share_via&utm_content=profile&utm_medium=member_android
