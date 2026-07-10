@@ -116,7 +116,7 @@ Fingerprint attendance synced with Google Sheets.
 
 # 📈 GitHub Analytics
 
-> Replace the username if you change it.
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patelprincekumar2007&show_icons=true&theme=tokyonight)
 
@@ -126,7 +126,7 @@ Fingerprint attendance synced with Google Sheets.
 
 # 💯 LeetCode
 
-Replace `YOUR_LEETCODE_USERNAME`.
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/patelprince_2007/?theme=dark&font=baloo)
 
