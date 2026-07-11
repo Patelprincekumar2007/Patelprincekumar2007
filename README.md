@@ -111,6 +111,21 @@ Learn → Build → Improve
 
 ---
 
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+**Computer Science & Engineering**
+
+🏫 **Charotar University of Science and Technology (CHARUSAT)**  
+📍 CSPIT, Changa, Gujarat, India
+
+📅 **2024 – 2028**  
+📊 **Current CGPA:** 7.95 / 10.00
+
+---
+
 ## 💼 Open To
 
 ✔ Data Science Internships
